@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: slategray;
+}
+
+img {
+  width: 20em;
+  height: 20em;
+  object-fit: cover;
+}
+
+body {
+  text-align: center;
+}
